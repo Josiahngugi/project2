@@ -44,3 +44,14 @@ once done forking, clone the project to you computer:$git clone URL
 ```
 Please ensure you have cloned it to the diretory you intended.
 ```
+## Authors
+
+* **Josiah Maina Ngugi** - *Initial work* - [alfartech](https://github.com/Josiahngugi)
+
+## License
+@ Alfar Technologies Limited 
+## Acknowledgments
+
+* God
+* Mr.Ngugi
+* moringa TM's
