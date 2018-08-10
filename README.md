@@ -41,13 +41,7 @@ Please ensure you have cloned it to the diretory you intended.
  1.Xammp or any other live server
  2.atom
  3.a computer [atleast 4GB ram, 500GB HDD,core I5 proccessor]
-## Installing
 
-Fork this branch from this username:Josiahngugi/project2
-
-once done forking, clone the project to you computer:$git clone URL
-
-```
 Please ensure you have cloned it to the diretory you intended.
 ```
 ## Authors
