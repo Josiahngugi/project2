@@ -1,7 +1,7 @@
 # Triangle Tracker
 This Project prompts the user for sides of a triangle and determine a type of  atriangle it is
 <a href="https://josiahngugi.github.io/project2/">go to  Site</a>
-<image src=""
+<image src="../img/best.gif">
 
 ## Getting Started
 The project has two buttons "start" and "Result".upon click the "start" button an alert prompts  to the user to fill 3 sides of the triangle.
