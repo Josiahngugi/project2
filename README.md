@@ -1,12 +1,14 @@
 # Triangle Tracker
+This Project prompts the user for sides of a triangle and determine a type of  atriangle it is
 <a href="https://josiahngugi.github.io/project2/">go to  Site</a>
 
-This Project prompts the user for sides of a triangle and determine a type of  atriangle it is
 ## Getting Started
 The project has two buttons "start" and "Result".upon click the "start" button an alert prompts  to the user to fill 3 sides of the triangle.
 Then the program compares the sides inputed and determine the type of the triangle it is as follows to the specs
+## Description
+This is a web based program that determine the type of the triangle submited by the user.Its is designed using HTML,CSS,Javascript. 
 
-###Specs of this project
+## Specs of the program
 
     The program should return "Equilateral"
         Input: all side of triangle are equal
@@ -24,7 +26,8 @@ Then the program compares the sides inputed and determine the type of the triang
         Input: Sum of two sides is less than one of either sides
         Example:sides (5,6,50)
         Output Example: true
-
+## Behaviours
+The "start" button loads alerts that prompt the user to put all the three sides of the triangle.Then, after comparing on values, on clicking the "Result" button its give out the result as an alert too. 
 ### Prerequisites
 To have this project run from your end, the following are prerequisites tools you need
 ````
@@ -32,8 +35,7 @@ To have this project run from your end, the following are prerequisites tools yo
  1.Xammp or any other live server
  2.atom
  3.a computer [atleast 4GB ram, 500GB HDD,core I5 proccessor]
-
-### Installing
+## Installing
 
 Fork this branch from this username:Josiahngugi/project2
 
