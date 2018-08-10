@@ -1,5 +1,6 @@
 body{
-background-image: url(../img/trial.gif);
+background-image: url(../img/best.gif);
+background-color: rgba(255, 0, 0, 0.5);
 }
 .head{
   color: blue;
