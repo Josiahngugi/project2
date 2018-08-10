@@ -7,7 +7,25 @@ This Project prompts the user for sides of a triangle and determine a type of  a
 ## Getting Started
 The project has two buttons "start" and "Result".upon click the "start" button an alert prompts  to the user to fill 3 sides of the triangle.
 Then the program compares the sides inputed and determine the type of the triangle it is as follows to the specs
-###Spects
+
+###Specs of this project
+
+    The program should return "Equilateral"
+        Input: all side of triangle are equal
+        Example:sides (5,5,5)
+        Output : true
+    The program should return "Isosceles".
+        Input: Either of two triangles are equal
+        Example:sides (5,5,3)
+        Output: true
+    The program should return "Scalene".
+        Input : None of the sides is equal to the other
+        Example:sides (5,6,7)
+        Output :true
+    The program should return "invalid".
+        Input: Sum of two sides is less than one of either sides
+        Example:sides (5,6,50)
+        Output Example: true
 
 ### Prerequisites
 To have this project run from your end, the following are prerequisites tools you need
