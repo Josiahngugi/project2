@@ -30,7 +30,13 @@ This is a web based program that determine the type of the triangle submited by 
 The "start" button loads alerts that prompt the user to put all the three sides of the triangle.Then, after comparing on values, on clicking the "Result" button its give out the result as an alert too. 
 ### Prerequisites
 To have this project run from your end, the following are prerequisites tools you need
-````
+## Installing
+Fork this branch from this username:Josiahngugi/project2
+once done forking, clone the project to you computer:$git clone URL
+
+```
+Please ensure you have cloned it to the diretory you intended.
+```````
  #Tools 
  1.Xammp or any other live server
  2.atom
