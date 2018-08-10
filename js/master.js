@@ -1,12 +1,16 @@
 var side1 ,side2 ,side3
 var result=[];
-window.onload=function userinput(){
+function userinput(){
   side1=parseInt(prompt("Enter the first side"));
   side2=parseInt(prompt("Enter the second side"));
   side3=parseInt(prompt("Enter the third side"));
   result.push(side1,side2,side3)
 }
+// function reloaads the page
 
+// function reload (){
+//   window.location.reload();
+// }
 // fuction that compares the sides
 function compare(){
   if (side1===side2&&side2===side3){
@@ -24,4 +28,5 @@ function compare(){
   else {
     alert("Please put valid lengths"+"\n"+"The sides of the triangle are: "+result)
   }
+  window.location.reload();
 }
