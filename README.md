@@ -1,7 +1,5 @@
 # Triangle Tracker
-<a href="https://josiahngugi.github.io/project2/">go to My Site</a>
-
-<a href="http://fvcproductions.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="FVCproductions" alt="FVCproductions"></a>
+<a href="https://josiahngugi.github.io/project2/">go to  Site</a>
 
 This Project prompts the user for sides of a triangle and determine a type of  atriangle it is
 ## Getting Started
