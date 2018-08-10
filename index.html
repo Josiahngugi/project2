@@ -28,11 +28,14 @@
           alert("This is an Isosceles Triangle")
         }
         else if (side1!==side2||side2!==side3||side1!==side3) {
-            alert("This is an Scalene Triangle")
+          if((side1+side2)<=side3){
+            alert("this")
+          }
+          else {
+              alert("This is an Scalene Triangle")
+          }
+
         }
-        // else if ((side1+side2)<=side3||(side2+side3)<=side1||(side1+side3)<=side2) {
-        //   alert("this is a Scalene")
-        // }
       }
 
     </script>
