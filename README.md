@@ -37,7 +37,8 @@ once done forking, clone the project to you computer:$git clone URL
 ```
 Please ensure you have cloned it to the diretory you intended.
 ```````
- #Tools 
+
+ ## Tools 
  1.Xammp or any other live server
  2.atom
  3.a computer [atleast 4GB ram, 500GB HDD,core I5 proccessor]
