@@ -6,15 +6,27 @@
   </head>
   <body>
     <div class="master">
-      <h1>welcome to this project that helsps you determine the type of triangle</h1>
+      <h1>welcome to this project that helsps you determine the type of triangle</h1><br>
+      <button onclick="compare()">Result</button>
 
     </div>
     <script type="text/javascript">
+    // The funtion that prompt the user
+      var side1 ,side2 ,side3
       window.onload=function userinput(){
-        var side1=parseInt(prompt("Enter the first side"));
-        var side2=parseInt(prompt("Enter the first side"));
-        var side3=parseInt(prompt("Enter the first side"));
-        alert(side1)
+        side1=parseInt(prompt("Enter the first side"));
+        side2=parseInt(prompt("Enter the second side"));
+        side3=parseInt(prompt("Enter the third side"));
+      }
+
+      // fuction that compares the sides
+      function compare(){
+        if (side1===side2&&side2===side3){
+          alert("This is an Equilateral Triangle")
+        }
+        else if () {
+          alert("This is an Isosceles Triangle")
+        }
       }
 
     </script>
