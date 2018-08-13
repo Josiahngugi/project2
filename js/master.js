@@ -15,12 +15,7 @@ function userinput(){
     result.push(side1,side2,side3)
   }
 }
-// function reloaads the page
 
-// function reload (){
-//   window.location.reload();
-// }
-// fuction that compares the sides
 function compare(){
   if (result[0]===result[1]&&result[1]===result[2]){
     alert("This is an Equilateral Triangle"+"\n"+"The sides of the triangle are: "+result)
