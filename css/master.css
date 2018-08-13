@@ -1,6 +1,5 @@
 body{
 background-image: url(../img/best.gif);
-background-color: rgba(255, 0, 0, 0.5);
 background-repeat: no-repeat;
 background-size: cover;
 }
@@ -8,5 +7,5 @@ background-size: cover;
   color: blue;
 }
 .rat{
-  
+  color: red;
 }
